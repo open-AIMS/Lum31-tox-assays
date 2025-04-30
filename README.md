@@ -1,7 +1,7 @@
 # Lum31-tox-assays
 *R Code for data processing and analysis for the manuscript 'A bioluminescent bacterial toxicity assay for tropical marine environments'*
 
-This repository contains scripts for processing raw luminescence and cell count data to calculate percent light loss and specific growth rate values which are then used as input to model threholds in respoonse to the reference toxicants copper and zinc.
+This repository contains scripts for processing raw luminescence and cell count data to calculate percent light loss and specific growth rate values which are then used as input to model threholds in response to the reference toxicants copper and zinc.
 
 *This code is provided as supplementary information to the paper:*
 
