@@ -9,4 +9,4 @@ Luter, H.M., Damjanovic, K., Thomas, M.C., Fisher, R., Hoj, L., Negri, A.P. A bi
 
 *Data used in this analysis can be found at:*
 
-Australian Insitute of Marine Science (AIMS) (add metadata link)
+Australian Insitute of Marine Science (AIMS) (https://apps.aims.gov.au/metadata/view/6aae0b3b-fe15-47cc-9a11-9fb669479f61)
