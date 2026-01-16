@@ -5,7 +5,7 @@ This repository contains scripts for processing raw luminescence and cell count 
 
 *This code is provided as supplementary information to the paper:*
 
-Luter, H.M., Damjanovic, K., Thomas, M.C., Fisher, R., Hoj, L., Negri, A.P. A bioluminescent bacterial toxicity assay for tropical marine environments. Environmental Toxicology (add DOI when available)
+Luter, H.M., Damjanovic, K., Thomas, M.C., Fisher, R., Hoj, L., Negri, A.P. A bioluminescent bacterial toxicity assay for tropical marine environments. Environmental Toxicology (https://doi.org/10.1002/tox.70003)
 
 *Data used in this analysis can be found at:*
 
